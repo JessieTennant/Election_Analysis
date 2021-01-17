@@ -8,7 +8,7 @@
 
 ## Election-Audit Results
 
-- In this congressional elextion, 369,711 votes were cast.
+- In this congressional elextion, 369,711 votes were casted.
 - Denver makes up the largest voter population, with 306,055 votes casted. 82.8% of the total votes come from Denver. Jefferson county has the second largest vote count, with 38,855 votes (10.5%). Araphoe county has the least vote count, with only 24,801 votes making up 6.7% of the total votes. 
 - As suggested above, Denver county has the largest number of votes. 
 - Diana DeGette wins the election with 73.8% of the total votes. 11,606 people voted for her. Charles Casper Stockham comes in second place, with a vote count of 85,213 and a vote percentage of 23.0%. Raymon Anthony Doane has the fewest votes, with a vote count of 11,606 and a percentage of only 3.1%. 
