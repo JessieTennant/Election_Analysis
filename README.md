@@ -16,6 +16,8 @@
 
 ![Election_Results.PNG](Election_Results.PNG)
 
+[election_results.txt](analysis/election_results.txt)
+
 ## Election-Audit Summary
 
 [PyPoll_Challenge.py](PyPoll_Challenge.py)
